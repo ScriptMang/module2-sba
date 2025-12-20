@@ -28,3 +28,11 @@ ul {
     color: white;
     text-decoration: none;
 }
+
+ form {
+    display: flex;
+    flex-direction: column;
+    align-items: space-evenly;
+    width: 800px;
+}
+
