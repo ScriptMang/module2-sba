@@ -48,7 +48,13 @@ footer {
     list-style-type: none;
 }
 
+.social-media {
+    display: flex;
+    justify-content: center;
+}
+
 .social-link {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    padding: 5px;
 }
