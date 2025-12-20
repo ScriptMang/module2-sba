@@ -3,6 +3,10 @@ body {
     color: white;
 }
 
+.nav-links {
+    list-style: none;
+}
+
 .nav-links a {
     color: white;
     text-decoration: none;
