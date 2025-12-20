@@ -2,3 +2,7 @@ body {
     background-color: #282828;
     color: white;
 }
+
+.nav-links a {
+    color: white;
+}
