@@ -3,6 +3,11 @@ body {
     color: white;
 }
 
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
 .nav-links {
     list-style: none;
 }
