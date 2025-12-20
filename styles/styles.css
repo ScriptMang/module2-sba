@@ -50,3 +50,8 @@ footer {
     text-decoration: none;
     list-style-type: none;
 }
+
+.social-link {
+    display: flex;
+    justify-content: space-evenly;
+}
