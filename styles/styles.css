@@ -36,3 +36,7 @@ ul {
     align-items: space-evenly;
     width: 300px;
 }
+
+footer {
+    background-color: #3c3c3c;
+}
