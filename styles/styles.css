@@ -14,13 +14,9 @@ nav  {
     flex-direction: row;
 }
 
-ul {
+.nav-links {
     display: flex;
     justify-content: space-evenly;
-}
-
-
-.nav-links {
     list-style: none;
     padding: 10px;
 }
