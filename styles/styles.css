@@ -8,8 +8,20 @@ header {
     justify-content: space-between;
 }
 
+nav  {
+    display: flex;
+    flex-direction: row;
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
 .nav-links {
     list-style: none;
+    padding: 10px;
 }
 
 .nav-links a {
