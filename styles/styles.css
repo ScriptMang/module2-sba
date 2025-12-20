@@ -33,6 +33,5 @@ ul {
     display: flex;
     flex-direction: column;
     align-items: space-evenly;
-    width: 800px;
+    width: 300px;
 }
-
