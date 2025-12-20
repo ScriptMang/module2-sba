@@ -40,3 +40,13 @@ ul {
 footer {
     background-color: #3c3c3c;
 }
+
+.social-media > ul  {
+    list-style: none;
+}
+
+.social-media ul li a {
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+}
